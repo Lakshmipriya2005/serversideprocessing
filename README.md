@@ -129,7 +129,7 @@ def Areaofrectangle(request):
 ```
 
 ## OUTPUT:
-![output](server image.pdf)
+![output](area.png)
 
 
 ## Result:
