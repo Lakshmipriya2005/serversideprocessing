@@ -137,29 +137,3 @@ Thus a website has been successfully created to perform mathematical calculation
 
 
 
-
-### Step 3:
-
-
-
-### Step 4:
-
-
-
-### Step 5:
-
-
-
-### Step 6:
-
-Publish the website in the given URL.
-
-## PROGRAM :
-
-## OUTPUT:
-
-### Home Page:
-
-
-## Result:
-
